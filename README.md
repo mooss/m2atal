@@ -31,3 +31,13 @@ ssh -f -N -L:port_local:transit.univ-lemans.fr:22 identifiant_univ_nantes@bastio
 ```
 
 En utilisant cette commande, il faut donc entrer une fois le mot de passe univ nantes et deux fois le mot de passe univ lemans.
+
+# Salles et emploi du temps
+## Salles sans visio
+Les salles de tp du CIE n'ayant pas de visio, il est typiquement préférable que chacun amène sa machine et que les tps aient lieu dans des salles avec visio.
+
+Gardez tout de même l'oeil sur l'emploi du temps, puisque de temps en temps, sans raison apparente, des cours apparaissent dans des salles sans visio.
+
+## Ouverture des salles
+En plus des badges activés pour la salle U3, il est possible de désigner un étudiant référent, à même de récupérer un badge universel à l'accueil en échange de sa carte d'étudiant.
+Pour mettre ça en place, voir avec EM.
