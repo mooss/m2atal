@@ -1,4 +1,6 @@
 # Connection ssh sur les serveurs du Mans
+Courte explication sur comment se connecter en ssh à skinner.
+Pour plus de déŧail, voir [https://wiki.univ-nantes.fr/doku.php?id=etudiants:restreint:bastion_out]()
 
 ## Sur un réseau non bloqué
 
