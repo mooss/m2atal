@@ -1,8 +1,10 @@
-# Connection ssh sur les serveurs du Mans
+# Spécifique à Nantes
+
+## Connection ssh sur les serveurs du Mans
 Courte explication sur comment se connecter en ssh à skinner.
 Pour plus de déŧail, voir [https://wiki.univ-nantes.fr/doku.php?id=etudiants:restreint:bastion_out]()
 
-## Sur un réseau non bloqué
+### Sur un réseau non bloqué
 
 L'identifiant du mans est de la forme s123456.
 ```sh
@@ -15,7 +17,7 @@ Ou en une ligne (nécessite cependant de taper deux fois le mdp) :
 ssh -A -t -l identifiant_univ_lemans transit.univ-lemans.fr ssh -A skinner
 ```
 
-## Sur le réseau de la fac
+### Sur le réseau de la fac
 
 Pour passer à travers le réseau de la fac, établir un tunnel ssh entre bastion et transit puis se connecter en l'utilisant :
 ```sh
@@ -34,12 +36,12 @@ ssh -f -N -L:port_local:transit.univ-lemans.fr:22 identifiant_univ_nantes@bastio
 
 En utilisant cette commande, il faut donc entrer une fois le mot de passe univ nantes et deux fois le mot de passe univ lemans.
 
-# Salles et emploi du temps
-## Salles sans visio
+## Salles et emploi du temps
+### Salles sans visio
 Les salles de tp du CIE n'ayant pas de visio, il est typiquement préférable que chacun amène sa machine et que les tps aient lieu dans des salles avec visio.
 
 Gardez tout de même l'oeil sur l'emploi du temps, puisque de temps en temps, sans raison apparente, des cours apparaissent dans des salles sans visio.
 
-## Ouverture des salles
+### Ouverture des salles
 En plus des badges activés pour la salle U3, il est possible de désigner un étudiant référent, à même de récupérer un badge universel à l'accueil en échange de sa carte d'étudiant.
 Pour mettre ça en place, voir avec EM.
