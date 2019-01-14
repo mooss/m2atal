@@ -19,7 +19,7 @@ Vous l'avez compris, le mot d'ordre est ne vous laissez pas faire, ne vous laiss
 2. Si vous n'arrivez pas à engager une discussion autour du problème, n'insistez pas, contactez l'intéressé par mail.
 3. Si ça ne donne rien, parlez en au responsable de formation.
 
-Selon les cas, les étapes 1. et 2. peuvent être inversées, à vous de voir.
+Selon les cas, l'étape 2. peut être court-circuitée, à vous de voir.
 D'expérience personnelle, les mails fonctionnent bien mieux, peut-être parce qu'il est possible de bien penser à la formulation et que le récepteur a plus le temps d'ingérer et de comprendre le message.
 
 Gardez à l'esprit que la fac ne possède pas une structure fondamentalement hiérarchique et que les responsables de formation n'ont pas de pouvoir de décision particulier sur les autres intervenants.
