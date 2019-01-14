@@ -54,7 +54,7 @@ ssh -A -t -l identifiant_univ_lemans transit.univ-lemans.fr ssh -A skinner
 Pour passer à travers le réseau de la fac, établir un tunnel ssh entre bastion et transit puis se connecter en l'utilisant :
 ```sh
 ssh -f -N -L:port_local:transit.univ-lemans.fr:22 identifiant_univ_nantes@bastion.etu.univ-nantes.fr
-ssh -A -t identifiant_lemans@localhost -p port_local ssh -A -t skinner ssh -A gpue1
+ssh -A -t identifiant_lemans@localhost -p port_local ssh -A skinner
 ```
 
 Où
@@ -63,7 +63,7 @@ Où
 
 Possible en une ligne, en sachant qu'il n'est pas nécessaire de réétablir le tunnel ssh s'il est déjà en place et que tenter de réétablir un tunnel peut faire planter la connexion :
 ```sh
-ssh -f -N -L:port_local:transit.univ-lemans.fr:22 identifiant_univ_nantes@bastion.etu.univ-nantes.fr && ssh -A -t identifiant_lemans@localhost -p port_local ssh -A -t skinner ssh -A gpue1
+ssh -f -N -L:port_local:transit.univ-lemans.fr:22 identifiant_univ_nantes@bastion.etu.univ-nantes.fr && ssh -A -t identifiant_lemans@localhost -p port_local ssh -A skinner
 ```
 
 En utilisant cette commande, il faut donc entrer une fois le mot de passe univ nantes et deux fois le mot de passe univ lemans.
