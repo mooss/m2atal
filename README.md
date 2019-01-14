@@ -13,7 +13,7 @@ En sachant que vous n'allez pas subir les même problèmes que nous, donc il va 
  
 Vous l'avez compris, le mot d'ordre est ne vous laissez pas faire, ne vous laissez pas être dépassés par les évènements.
 
-## Petit guide de communication en milieu étudiant
+## Petit guide de ~~communication~~ survie en milieu étudiant
 
 1. Quand un problème est constaté (par exemple surcharge de travail), confronter (gentiment) l'intervenant.
 2. Si vous n'arrivez pas à engager une discussion autour du problème, n'insistez pas, contactez l'intéressé par mail.
