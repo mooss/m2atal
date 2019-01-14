@@ -29,6 +29,9 @@ C'est donc à vous de leur faire comprendre (c'est là que se sont trouvées bea
 
 # Spécifique à Nantes
 
+Si vous avez passé un certain temps à la fac de Nantes, vous devez être au courant que l'administration est pas là pour vous faciliter la tâche.
+Ça ne sera jamais aussi vrai que pour votre M2.
+
 ## Connection ssh sur les serveurs du Mans
 Courte explication sur comment se connecter en ssh à skinner.
 Pour plus de déŧail, voir [https://wiki.univ-nantes.fr/doku.php?id=etudiants:restreint:bastion_out]()
@@ -73,4 +76,4 @@ Gardez tout de même l'oeil sur l'emploi du temps, puisque de temps en temps, sa
 
 ### Ouverture des salles
 En plus des badges activés pour la salle U3, il est possible de désigner un étudiant référent, à même de récupérer un badge universel à l'accueil en échange de sa carte d'étudiant.
-Pour mettre ça en place, voir avec EM.
+Pour mettre ça en place, voir avec le responsable de Nantes.
