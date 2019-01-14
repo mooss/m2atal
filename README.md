@@ -1,3 +1,32 @@
+Nous avons subi un certain nombres de problèmes en M2 ATAL sur l'année 2018-2019.
+Ces problèmes étaient au final assez évitables mais nous n'avions pas toutes les cartes en mains dès le début pour y faire face.
+Pour éviter que ça se répète, voici quelques conseils et remarques.
+En sachant que vous n'allez pas subir les même problèmes que nous, donc il va vous falloir innover de ce point vue.
+
+# Concernant tout le monde
+
+## Petits trucs à savoir
+
+ - Les intervenants ponctuels n'ont pas nécessairement à faire des évaluations. Si les trois enseignants de certaines matières tiennent chacun à vous faire faire un TP noté + une présentation d'article, vous allez pas vous en sortir. Ne laissez pas cette situation se produire.
+ - Les intervenants réguliers n'ont pas à faire de projets en dehors de ceux explicitement prévu dans le cursus (apprentissage automatique en langue et fouille de texte en ce qui nous concerne). Les laissez pas vous dire qu'il vous font une faveur en vous donnant "seulement" un mini-projet.
+ - La charge de travail **doit** être adaptée aux alternants. Pas tout le temps mais parfois quand même. Les petites choses s'ajoutent vite, soyez vigilants.
+ 
+Vous l'avez compris, le mot d'ordre est ne vous laissez pas faire, ne vous laissez pas être dépassés par les évènements.
+
+## Petit guide de communication en milieu étudiant
+
+1. Quand un problème est constaté (par exemple surcharge de travail), confronter (gentiment) l'intervenant.
+2. Si vous n'arrivez pas à engager une discussion autour du problème, n'insistez pas, contactez l'intéressé par mail.
+3. Si ça ne donne rien, parlez en au responsable de formation.
+
+Selon les cas, les étapes 1. et 2. peuvent être inversées, à vous de voir.
+D'expérience personnelle, les mails fonctionnent bien mieux, peut-être parce qu'il est possible de bien penser à la formulation et que le récepteur a plus le temps d'ingérer et de comprendre le message.
+
+Gardez à l'esprit que la fac ne possède pas une structure fondamentalement hiérarchique et que les responsables de formation n'ont pas de pouvoir de décision particulier sur les autres intervenantes.
+Il vous faut composer avec ça.
+Gardez aussi à l'esprit que si les intervenants refusent d'admettre un problème, c'est juste parce qu'ils ne le voient pas.
+C'est donc à vous de leur faire comprendre (c'est là que se sont trouvées beaucoup de nos difficultés).
+
 # Spécifique à Nantes
 
 ## Connection ssh sur les serveurs du Mans
