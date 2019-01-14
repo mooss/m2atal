@@ -1,7 +1,7 @@
 Nous avons subi un certain nombres de problèmes en M2 ATAL sur l'année 2018-2019.
 Ces problèmes étaient au final assez évitables mais nous n'avions pas toutes les cartes en mains dès le début pour y faire face.
 Pour éviter que ça se répète, voici quelques conseils et remarques.
-En sachant que vous n'allez pas subir les même problèmes que nous, donc il va vous falloir innover de ce point vue.
+En sachant que vous n'allez pas subir les même problèmes que nous, donc il va vous falloir innover de ce point de vue.
 
 # Concernant tout le monde
 
@@ -22,7 +22,7 @@ Vous l'avez compris, le mot d'ordre est ne vous laissez pas faire, ne vous laiss
 Selon les cas, les étapes 1. et 2. peuvent être inversées, à vous de voir.
 D'expérience personnelle, les mails fonctionnent bien mieux, peut-être parce qu'il est possible de bien penser à la formulation et que le récepteur a plus le temps d'ingérer et de comprendre le message.
 
-Gardez à l'esprit que la fac ne possède pas une structure fondamentalement hiérarchique et que les responsables de formation n'ont pas de pouvoir de décision particulier sur les autres intervenantes.
+Gardez à l'esprit que la fac ne possède pas une structure fondamentalement hiérarchique et que les responsables de formation n'ont pas de pouvoir de décision particulier sur les autres intervenants.
 Il vous faut composer avec ça.
 Gardez aussi à l'esprit que si les intervenants refusent d'admettre un problème, c'est juste parce qu'ils ne le voient pas.
 C'est donc à vous de leur faire comprendre (c'est là que se sont trouvées beaucoup de nos difficultés).
@@ -34,7 +34,7 @@ Si vous avez passé un certain temps à la fac de Nantes, vous devez être au co
 
 ## Connection ssh sur les serveurs du Mans
 Courte explication sur comment se connecter en ssh à skinner.
-Pour plus de déŧail, voir [https://wiki.univ-nantes.fr/doku.php?id=etudiants:restreint:bastion_out]()
+Pour plus de détail, voir [https://wiki.univ-nantes.fr/doku.php?id=etudiants:restreint:bastion_out]()
 
 ### Sur un réseau non bloqué
 
