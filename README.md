@@ -5,32 +5,20 @@ En sachant que vous n'allez pas subir les même problèmes que nous, donc il va 
 
 # Concernant tout le monde
 
-## Petits trucs à savoir
-
- - Les intervenants ponctuels n'ont pas nécessairement à faire des évaluations. Si les trois enseignants de certaines matières tiennent chacun à vous faire faire un TP noté + une présentation d'article, vous allez pas vous en sortir. Ne laissez pas cette situation se produire.
- - Les intervenants réguliers n'ont pas à faire de projets en dehors de ceux explicitement prévu dans le cursus (apprentissage automatique en langue et fouille de texte en ce qui nous concerne). Les laissez pas vous dire qu'il vous font une faveur en vous donnant "seulement" un mini-projet.
- - La charge de travail **doit** être adaptée aux alternants. Pas tout le temps mais parfois quand même. Les petites choses s'ajoutent vite, soyez vigilants.
- 
-Vous l'avez compris, le mot d'ordre est ne vous laissez pas faire, ne vous laissez pas être dépassés par les évènements.
-
 ## Petit guide de ~~communication~~ survie en milieu étudiant
 
 1. Quand un problème est constaté (par exemple surcharge de travail), confronter (gentiment) l'intervenant.
 2. Si vous n'arrivez pas à engager une discussion autour du problème, n'insistez pas, contactez l'intéressé par mail.
 3. Si ça ne donne rien, parlez en au responsable de formation.
 
-Selon les cas, l'étape 2. peut être court-circuitée, à vous de voir.
-D'expérience personnelle, les mails fonctionnent bien mieux, peut-être parce qu'il est possible de bien penser à la formulation et que le récepteur a plus le temps d'ingérer et de comprendre le message.
+Selon les cas, l'étape 2. peut être court-circuitée.
+Les mails semblent mieux fonctionner, peut-être parce que le destinataire a plus le temps d'ingérer et de comprendre le message.
 
-Gardez à l'esprit que la fac ne possède pas une structure fondamentalement hiérarchique et que les responsables de formation n'ont pas de pouvoir de décision particulier sur les autres intervenants.
-Il vous faut composer avec ça.
-Gardez aussi à l'esprit que si les intervenants refusent d'admettre un problème, c'est juste parce qu'ils ne le voient pas.
-C'est donc à vous de leur faire comprendre (c'est là que se sont trouvées beaucoup de nos difficultés).
+Gardez à l'esprit que les responsables de formation n'ont pas de pouvoir de décision particulier sur les autres intervenants.
+Typiquement, si les intervenants refusent d'admettre un problème, c'est juste parce qu'ils ne le voient pas.
+C'est donc à vous de leur faire voir.
 
 # Spécifique à Nantes
-
-Si vous avez passé un certain temps à la fac de Nantes, vous devez être au courant que l'administration est pas là pour vous faciliter la tâche.
-Ça ne sera jamais aussi vrai que pour votre M2.
 
 ## Connection ssh sur les serveurs du Mans
 Courte explication sur comment se connecter en ssh à skinner.
